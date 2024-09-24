@@ -78,3 +78,5 @@ plot(TukeyHSD(model1, conf.level=0.98),las=2)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+  A relationship can be seen through this recorded data, as visual differences are seen between the means and quartiles of the groups. The GRADUATES are significantly higher than the HIGH SCHOOL DEGREE and LT HIGH SCHOOL DEGREE. We can see this difference between Q1 and Q3, as well as the average means of 10 for GRADUATES, 8.25 for HIGHSCHOOL and 9 for LT HIGHSCHOOL. The final plot shows the LIT HIGH SCHOOL and HIGH SCHOOL values being below zero, showing a significant difference, ad the recorded p-value support this stance.
