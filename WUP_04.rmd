@@ -45,10 +45,6 @@ basicCN + geom_boxplot()
   There is a significant difference shown in the box plot as GRADUATES  have a notably larger upper quartile than the HIGHSCHOOL third quartile. As is the same relationship between JUNIOR COLLEGE and LT HIGH SCHOOL.
   
 
-```{r}
-boxplot(WORDSUM~DEGREE,data=GSScsv)
-```
-
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
